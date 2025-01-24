@@ -1,5 +1,5 @@
 # Trabajo-grupos-
-Personas
+Personas:
 Roberto
 Alfonso
 Enrique
